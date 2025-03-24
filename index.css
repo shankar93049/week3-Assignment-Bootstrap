@@ -1,0 +1,16 @@
+body {
+    background-color: #73ace4;
+}
+
+.container {
+    max-width: 960px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+ div a{
+    background-color:  pink;
+}
